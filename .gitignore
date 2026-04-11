@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/
+.obsidian.json
+*.vault
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temp
+*.tmp
+*.bak
